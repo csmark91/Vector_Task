@@ -1,7 +1,7 @@
 Alapadatok:
-Fejlesztőkörnyezet: Delphi (VCL)
-Adatbáziskezelő: Microsoft SQL Server
-Adatkapcsolat: ADO (TADOConnection, TADOQuery)
+Fejlesztőkörnyezet: Delphi (VCL),
+Adatbáziskezelő: Microsoft SQL Server,
+Adatkapcsolat: ADO (TADOConnection, TADOQuery),
 Riportmotor: FastReport VCL
 
 Adatbázis létrehozása és feltöltése:
